@@ -1,0 +1,7 @@
+vendor/
+release/
+tests/out/
+tests/bin/
+tests/*.exe
+preview*.png
+preview*.layout.txt
